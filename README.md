@@ -6,7 +6,7 @@ Each shell script uses the [curl](https://curl.haxx.se/) command to call a metho
 
 ### List of Scripts
 
-#### Get information of file formats supported by Transifex
+#### Get a detailed listing of file formats supported by Transifex
 
 ```
 tx-get-formats.bash
