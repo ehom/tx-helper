@@ -19,13 +19,13 @@ tx-get-language-info.bash <xx_XX>
 ```
 
 
-#### Get list of organization you belong to
+#### Get list of organizations you belong to
 
 ```
 tx-get-orgs.bash
 ```
 
-#### Get list of project you have access to
+#### Get list of projects you have access to
 
 ```
 tx-get-projects.bash
