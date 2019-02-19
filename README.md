@@ -6,19 +6,36 @@ Each shell script uses the [curl](https://curl.haxx.se/) command to call a metho
 
 ### List of Scripts
 
+#### Get information of file formats supported by Transifex
+
 ```
 tx-get-formats.bash
 ```
+
+#### Get information for a specific language
+
+```
+tx-get-language-info.bash <xx_XX>
+```
+
+
+#### Get list of organization you belong to
 
 ```
 tx-get-orgs.bash
 ```
 
+#### Get list of project you have access to
+
 ```
 tx-get-projects.bash
 ```
 
-```
-tx-get-language-info.bash
-```
+
+
+
+
+
+
+
 
